@@ -1,0 +1,6 @@
+[submodule "DataHub-Client"]
+	path = DataHub-Client
+	url = https://github.com/Open-Research-Society/DataHub-Client.git
+[submodule "DataHub-Backend"]
+	path = DataHub-Backend
+	url = https://github.com/Open-Research-Society/DataHub-Backend.git
